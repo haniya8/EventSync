@@ -1,14 +1,6 @@
-# HR Management System – Database Systems Teaching App
+# Ticket Booking Web App
 
-This project is a **full-stack HR Management System** designed as teaching material for a database systems course. It demonstrates how a web application interacts with a relational database (OracleDB) using a Node.js backend and a React frontend.
-
----
-
-## Acknowledgement
-
-This project is from the following repository: [https://github.com/ShehzadAslamOza/lab7-dbms-app/tree/main](https://github.com/ShehzadAslamOza/lab7-dbms-app/tree/main)
-
----
+This project is a **full-stack Ticket Booking System**. It demonstrates how a web application interacts with a relational database (OracleDB) using a Node.js backend and a React frontend.
 
 ## Project Structure
 
@@ -54,10 +46,6 @@ DB-HRApp-Main/
 
 ### 1. Clone the Repository
 
-```sh
-git clone https://github.com/DeebajHaider/DB-HRApp-Main.git
-cd DB-HRApp-Main
-```
 
 ### 2. Configure Backend Environment
 
@@ -107,31 +95,6 @@ npm start
 
 ---
 
-## Features
-
-- **Employee Management:** View, add, edit, and delete employees.
-- **Department Management:** View, add, and edit departments.
-- **Job & Location Listings:** View available jobs and locations.
-- **Authentication:** Simple login system (expandable for real-world use).
-- **OracleDB Integration:** All data is stored and managed in OracleDB.
-
----
-
-## Educational Value
-
-- Demonstrates full-stack CRUD operations.
-- Shows how to connect a Node.js server to OracleDB.
-- Illustrates RESTful API design and consumption from a React frontend.
-- Provides practical SQL examples for database manipulation.
-
----
-
-## Notes
-
-- This app is intended for educational purposes and may use simplified authentication and error handling.
-- For production use, always secure credentials and follow best practices for security and validation.
-
----
 
 ## License
 
